@@ -70,3 +70,71 @@ Every link StorX shares externally must have UTM parameters so you know
 exactly where signups are coming from.
 
 **UTM Format:**
+https://storx.network/?utm_source=X&utm_medium=Y&utm_campaign=Z
+
+**StorX UTM Naming Convention:**
+
+| Parameter | Options | Example |
+|---|---|---|
+| utm_source | twitter, linkedin, reddit, newsletter, google, producthunt | twitter |
+| utm_medium | social, email, paid, organic, referral | social |
+| utm_campaign | campaign name in lowercase with hyphens | web3-founders-jan |
+
+**Example links:**
+- Twitter post: `?utm_source=twitter&utm_medium=social&utm_campaign=web3-launch`
+- Newsletter: `?utm_source=newsletter&utm_medium=email&utm_campaign=monthly-jan`
+- Google Ad: `?utm_source=google&utm_medium=paid&utm_campaign=s3-alternative`
+
+**Rule: Never share a link without UTM parameters. Ever.**
+
+---
+
+## Step 4 — Recommended Analytics Stack for StorX
+
+| Tool | Purpose | Priority |
+|---|---|---|
+| Google Analytics 4 (GA4) | Website traffic and event tracking | 🔴 Must have |
+| Google Search Console | Organic search performance | 🔴 Must have |
+| Hotjar or Microsoft Clarity | Heatmaps and session recordings | 🟡 High value |
+| Mixpanel or Amplitude | Product analytics (in-app events) | 🟡 High value |
+| UTM.io or Notion | UTM link management and naming | 🟢 Nice to have |
+
+Start with GA4 and Google Search Console. Add the others as you grow.
+
+---
+
+## Step 5 — Monthly Analytics Review Checklist
+
+Run this review every month:
+
+- [ ] Which channel drove the most signups this month?
+- [ ] What is the current trial-to-paid conversion rate?
+- [ ] Which blog posts are driving the most organic signups?
+- [ ] Where are users dropping off in the signup flow?
+- [ ] What is the average time from signup to first file upload?
+- [ ] Which ad campaigns have the lowest cost per signup?
+- [ ] Are there any sudden traffic drops that need investigating?
+
+---
+
+## Step 6 — StorX-Specific Tracking Priorities
+
+Based on StorX's current marketing goals, set these up first:
+
+1. **Signup conversion tracking** — know exactly how many visitors 
+   become trial users
+2. **Channel attribution** — know which content, ads, and communities 
+   are driving signups
+3. **Activation tracking** — know how many trial users upload their 
+   first file within 24 hours
+4. **Search Console setup** — track which keywords are bringing 
+   technical buyers to StorX content
+
+---
+
+## Related Skills
+- `skills/storx-marketing-context/SKILL.md` — read first
+- `skills/ab-test-setup/SKILL.md` — always set up tracking before 
+  running any A/B test
+- `skills/seo-audit/SKILL.md` — uses Search Console data
+- `skills/content-strategy/SKILL.md` — uses organic traffic data
