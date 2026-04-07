@@ -151,3 +151,5 @@ These pages are not just for SEO — send them during the sales process:
 - `skills/sales-enablement/SKILL.md` — for using these pages 
   in the sales process
 - `skills/programmatic-seo/SKILL.md` — for scaling these pages
+- `skills/competitor-intelligence/SKILL.md` — use crawl data 
+  and keyword gaps to brief comparison pages
