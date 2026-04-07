@@ -111,4 +111,62 @@ A post about "history of cloud computing" = low intent.
 **Filter 3 — StorX authority**
 Can StorX credibly own this topic? StorX has genuine authority on:
 - Decentralized storage architecture
-- S3-compatibl
+- S3-compatible alternatives to AWS
+- Censorship-resistant infrastructure
+- Client-side encryption for cloud storage
+
+**Filter 4 — Competitive gap**
+Is this topic underserved by competitors? Use this to find gaps 
+where StorX can rank without fighting established players head-on.
+
+---
+
+## Step 6 — High Priority Content to Build First
+
+Based on StorX's current goals and gaps, create this content first:
+
+### Immediate Priorities
+1. **"What If Node Operators Go Offline?"** — Blog post explaining 
+   erasure coding in plain language. This directly addresses StorX's 
+   #1 conversion blocker.
+2. **StorX vs AWS S3** — Comparison page targeting high-intent 
+   switchers searching for alternatives.
+3. **"How to Migrate from AWS S3 to StorX in a Day"** — Technical 
+   tutorial targeting DevOps Leads. Demonstrates S3 compatibility 
+   in action.
+4. **Customer Case Study** — Especially a censorship or data loss 
+   anchor story. The single highest-converting content asset StorX 
+   can build right now.
+
+### Secondary Priorities
+5. Why Web3 Projects Should Use Decentralized Storage
+6. The True Cost of AWS Egress Fees
+7. How Client-Side Encryption Works in StorX
+8. StorX vs Storj — Full Comparison
+
+---
+
+## Step 7 — Distribution Checklist
+
+Every piece of content must be distributed across all relevant channels:
+
+- [ ] Published on StorX blog
+- [ ] Shared on Twitter/X with key quote pulled out
+- [ ] Shared on LinkedIn with a professional framing
+- [ ] Submitted to relevant subreddits (r/selfhosted, r/devops, 
+      r/web3, r/CloudStorage)
+- [ ] Shared in relevant Discord communities
+- [ ] Included in next newsletter issue
+- [ ] Added to the sales team's content library
+- [ ] Internally linked from related existing pages
+
+---
+
+## Related Skills
+- `skills/storx-marketing-context/SKILL.md` — read first
+- `skills/seo-audit/SKILL.md` — for keyword research and SEO
+- `skills/social-content/SKILL.md` — for distributing content 
+  on social media
+- `skills/programmatic-seo/SKILL.md` — for scaling content at volume
+- `skills/competitor-alternatives/SKILL.md` — for comparison content
+- `skills/analytics-tracking/SKILL.md` — for measuring content ROI
