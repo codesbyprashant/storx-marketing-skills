@@ -246,3 +246,5 @@ before 6 months.
   page performance
 - `skills/free-tool-strategy/SKILL.md` — tools generate backlinks 
   that boost programmatic page rankings
+- `skills/pseo-agent/SKILL.md` — the actual tool that 
+  generates programmatic pages at scale
