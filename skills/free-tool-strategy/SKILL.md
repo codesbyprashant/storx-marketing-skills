@@ -133,7 +133,7 @@ experience.
 
 Once built, distribute every free tool through:
 
-- [ ] Dedicated landing page on storx.network/tools/[tool-name]
+- [ ] Dedicated landing page on tools.storx.io/[tool-name]
 - [ ] Blog post explaining how to use the tool and why it matters
 - [ ] Twitter/X thread showing the tool in action with a real example
 - [ ] LinkedIn post targeting CTOs and DevOps Leads
