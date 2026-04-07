@@ -17,7 +17,9 @@ system that crawls competitor websites, checks keyword rankings,
 monitors social media, and uses Claude AI to generate prioritised 
 action items for the StorX marketing team.
 
-**Dashboard URL:** https://intel.storx.io
+**Dashboard URL:** http://localhost:5000 (local)  
+**Production URL:** https://intel.storx.io (coming soon — pending deployment)  
+**Current Status:** 🔄 Running locally — live server deployment in progress
 **Runs automatically:** Every Monday at 06:00 UTC
 **Competitors tracked:** 18 across decentralised storage, privacy 
 cloud, enterprise storage, and cloud backup categories
