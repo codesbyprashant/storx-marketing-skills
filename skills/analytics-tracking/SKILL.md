@@ -70,7 +70,7 @@ Every link StorX shares externally must have UTM parameters so you know
 exactly where signups are coming from.
 
 **UTM Format:**
-https://storx.network/?utm_source=X&utm_medium=Y&utm_campaign=Z
+https://storx.io/?utm_source=X&utm_medium=Y&utm_campaign=Z
 
 **StorX UTM Naming Convention:**
 
