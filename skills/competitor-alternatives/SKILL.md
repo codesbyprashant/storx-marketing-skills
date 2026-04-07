@@ -153,3 +153,5 @@ These pages are not just for SEO — send them during the sales process:
 - `skills/programmatic-seo/SKILL.md` — for scaling these pages
 - `skills/competitor-intelligence/SKILL.md` — use crawl data 
   and keyword gaps to brief comparison pages
+- `skills/pseo-agent/SKILL.md` — use the pSEO agent to 
+  generate competitor comparison pages at scale
