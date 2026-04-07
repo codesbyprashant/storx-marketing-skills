@@ -14,6 +14,8 @@ decentralized, S3-compatible cloud storage. Files are split, encrypted,
 and distributed across a network of independent node operators — 
 eliminating single points of failure and centralized control.
 
+**Website:** https://storx.io
+
 **Key Facts**
 - S3-compatible — works with existing tools, SDKs, and workflows out of 
   the box
