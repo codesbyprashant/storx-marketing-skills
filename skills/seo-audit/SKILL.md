@@ -23,12 +23,12 @@ These are the foundation. If technical SEO is broken, nothing
 else matters.
 
 **Indexing and Crawlability**
-- [ ] Is storx.network verified in Google Search Console?
+- [ ] Is storx.io verified in Google Search Console?
 - [ ] Is the sitemap submitted to Google Search Console?
 - [ ] Are there any crawl errors showing in Search Console?
 - [ ] Are any important pages accidentally blocked in robots.txt?
 - [ ] Are all important pages indexed by Google? 
-      (Search: site:storx.network in Google)
+      (Search: site:storx.io in Google)
 - [ ] Are there any redirect chains longer than 1 hop?
 - [ ] Are all redirects 301 (permanent) not 302 (temporary)?
 
@@ -44,7 +44,7 @@ else matters.
 - [ ] Is caching enabled on the server?
 
 **Mobile and HTTPS**
-- [ ] Is storx.network fully mobile responsive?
+- [ ] Is storx.io fully mobile responsive?
 - [ ] Does the site load correctly on mobile devices?
 - [ ] Is HTTPS enabled across all pages?
 - [ ] Are there any mixed content warnings (HTTP assets on 
@@ -52,8 +52,8 @@ else matters.
 
 **URL Structure**
 - [ ] Are URLs clean, readable, and keyword-rich?
-      Good: storx.network/blog/aws-s3-alternative
-      Bad: storx.network/blog/post?id=1234
+      Good: blogs.storx.io/aws-s3-alternative
+      Bad: blogs.storx.io/post?id=1234
 - [ ] Are URLs lowercase with hyphens (not underscores)?
 - [ ] Are there any duplicate URLs for the same content?
 
@@ -61,7 +61,7 @@ else matters.
 
 ### Section 2 — On-Page SEO
 
-Check every important page on storx.network:
+Check every important page on storx.io:
 
 **Title Tags**
 - [ ] Does every page have a unique title tag?
@@ -165,7 +165,7 @@ Use Google Search Console → Links section, or a free tool
 like Ahrefs Webmaster Tools or Moz Link Explorer.
 
 **What to audit:**
-- [ ] How many total backlinks does storx.network have?
+- [ ] How many total backlinks does storx.io have?
 - [ ] How many unique domains are linking to StorX?
 - [ ] Are any backlinks coming from spammy or irrelevant sites?
 - [ ] Which StorX pages have the most backlinks?
