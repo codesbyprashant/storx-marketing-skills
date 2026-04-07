@@ -133,3 +133,116 @@ at programmatic scale:
 
 Every programmatic page must follow this template. 
 Fill in the [variables] for each variation:
+Title: [Primary Keyword] — StorX Network
+H1: [Outcome-focused headline for this specific audience/use case]
+Section 1 — The Problem (2 paragraphs)
+Write about the specific pain this audience feels with their
+current storage provider. Reference the specific competitor or
+use case in this section.
+Section 2 — Why StorX (3-4 bullet points)
+
+True decentralization — no single point of failure or control
+S3-compatible — works with [specific tools this audience uses]
+Client-side encryption — even StorX cannot read your files
+Flat pricing — no egress fees, no surprise bills
+
+Section 3 — Comparison Table
+[Competitor/Category] vs StorX side-by-side table
+Include: decentralization, S3 compatibility, encryption,
+pricing model, censorship resistance
+Section 4 — How It Works for [Audience/Use Case]
+2-3 paragraphs specific to this page's audience or use case.
+Reference their specific tools, workflows, and concerns.
+Section 5 — Social Proof
+One customer quote most relevant to this audience.
+Node count and customer count as proof points.
+Section 6 — CTA
+"Start your free trial" or "Migrate from [Competitor] today"
+
+---
+
+## Step 3 — Quality Rules for Programmatic Pages
+
+Programmatic SEO only works if the pages are genuinely useful. 
+Google penalizes thin, low-quality pages. Follow these rules:
+
+**Minimum quality standards for every page:**
+- Minimum 600 words of unique content per page
+- At least one section must be truly specific to that 
+  page's topic — not just find-and-replace copy
+- Every page must have a unique title tag and meta description
+- Every page must link to at least 2 other relevant StorX pages
+- No two pages should be more than 60% identical in content
+
+**What makes a page genuinely useful:**
+- It answers a specific question a real buyer would have
+- It includes information specific to that audience or use case
+- It has a clear next step (CTA) relevant to that visitor
+
+---
+
+## Step 4 — Technical SEO Requirements
+
+Every programmatic page must have:
+
+| Element | Requirement |
+|---|---|
+| Title tag | 50-60 characters, include primary keyword |
+| Meta description | 150-160 characters, include keyword and CTA |
+| H1 | One per page, match search intent |
+| URL structure | /[category]/[variable] — clean and readable |
+| Internal links | At least 2 links to other StorX pages |
+| Canonical tag | Set to avoid duplicate content issues |
+| Schema markup | Use appropriate schema for page type |
+| Page speed | Must load in under 3 seconds on mobile |
+
+---
+
+## Step 5 — Build Order for StorX
+
+Build programmatic pages in this order:
+
+1. **Competitor alternative pages** — highest buyer intent, 
+   build all 10 first
+2. **Use case pages** — broad awareness, build top 5 verticals
+3. **Integration pages** — captures technical buyers mid-evaluation
+4. **Feature pages** — long-tail, low competition, compound over time
+5. **Location pages** — build only if StorX targets specific regions
+
+---
+
+## Step 6 — Measuring Programmatic SEO Success
+
+Track these metrics monthly in Google Search Console:
+
+- Total impressions across all programmatic pages
+- Total clicks across all programmatic pages
+- Average position for target keywords
+- Which pages are ranking in top 10
+- Which pages have high impressions but low clicks 
+  (title/meta needs improvement)
+- Signups attributed to programmatic pages 
+  (use UTM parameters on all CTAs)
+
+**Timeline expectations:**
+- Months 1-3: Pages indexed, minimal traffic
+- Months 3-6: Initial rankings appear, some traffic
+- Months 6-12: Compounding traffic as pages gain authority
+- Month 12+: Significant organic traffic from long-tail keywords
+
+Programmatic SEO is a long-term investment. Do not judge results 
+before 6 months.
+
+---
+
+## Related Skills
+- `skills/storx-marketing-context/SKILL.md` — read first
+- `skills/seo-audit/SKILL.md` — audit pages after publishing
+- `skills/competitor-alternatives/SKILL.md` — first batch of 
+  programmatic pages
+- `skills/content-strategy/SKILL.md` — programmatic pages are 
+  part of the content plan
+- `skills/analytics-tracking/SKILL.md` — track programmatic 
+  page performance
+- `skills/free-tool-strategy/SKILL.md` — tools generate backlinks 
+  that boost programmatic page rankings
