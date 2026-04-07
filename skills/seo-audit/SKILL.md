@@ -238,3 +238,5 @@ Run these checks every month:
   before auditing
 - `skills/free-tool-strategy/SKILL.md` — build tools to generate 
   backlinks
+- `skills/competitor-intelligence/SKILL.md` — use SEO scores 
+  and keyword gap data to prioritise audit fixes
