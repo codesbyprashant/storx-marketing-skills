@@ -219,3 +219,5 @@ accessible to the whole marketing team.
   complaints to build comparison pages
 - `skills/social-content/SKILL.md` — use customer language 
   in social posts
+- `skills/atomizer/SKILL.md` — atomize every customer 
+  interview transcript immediately after it happens
