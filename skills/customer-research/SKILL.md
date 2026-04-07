@@ -101,3 +101,121 @@ extremely valuable.
 2. What did you switch to and why?
 3. Was there anything that could have changed your decision?
 4. What would need to be true for you to come back
+
+## Step 2 — Synthesizing What You Find
+
+After collecting research, organize findings into four buckets:
+
+### Bucket 1 — Pain Language (Before StorX)
+Exact phrases customers used to describe their frustration with 
+centralized cloud. Use these verbatim in ads and landing pages.
+
+**Already identified:**
+- "We need storage that no one can shut down."
+
+**Keep adding to this list from every interview.**
+
+### Bucket 2 — Win Language (After StorX)
+Exact phrases customers used to describe their experience with StorX.
+Use these in testimonials, case studies, and social proof sections.
+
+**Already identified:**
+- "It just works with our existing S3 setup."
+
+**Keep adding to this list from every interview.**
+
+### Bucket 3 — Objections
+Every concern or hesitation customers raised before or during 
+evaluation. Use these to build content and sales collateral.
+
+**Already identified:**
+- "What if node operators go offline?"
+- "I've never heard of StorX — is it reliable?"
+- "Migration sounds painful"
+- "Is it compliant (GDPR / SOC2)?"
+
+**Keep adding to this list from every interview.**
+
+### Bucket 4 — Switching Triggers
+The specific event or moment that made a customer finally decide 
+to look for an alternative to their current provider.
+
+**Already identified:**
+- A security incident or data breach scare
+- A censorship or account suspension event
+
+**Keep adding to this list from every interview.**
+
+---
+
+## Step 3 — Turning Research Into Assets
+
+Every research session should produce at least one of these outputs:
+
+| Research Finding | Asset to Build |
+|---|---|
+| A compelling customer story | Case study or testimonial |
+| A common objection | Blog post or FAQ answer |
+| A switching trigger phrase | Ad headline or landing page copy |
+| A competitor complaint | Competitor alternative page |
+| A product gap | Roadmap input for the product team |
+| A content question | Blog post topic |
+
+---
+
+## Step 4 — StorX Research Priorities Right Now
+
+Based on current gaps, run these research tasks first:
+
+1. **Interview 3 customers who switched from AWS S3** — get the 
+   censorship or data loss anchor story documented properly
+2. **Mine Reddit and Hacker News** for complaints about AWS, Storj, 
+   and Backblaze — find buyers who sound like StorX prospects
+3. **Send a 5-question survey** to all current paying customers — 
+   collect win language and objections at scale
+4. **Interview 2 churned customers** — understand what drove them 
+   away and what would bring them back
+
+---
+
+## Step 5 — Research Documentation Template
+
+For every customer interview, record the following:
+Customer Name:
+Company:
+Role: (CTO / DevOps Lead / Web3 Founder / Other)
+Previous Provider:
+Date of Interview:
+Key Pain Phrases:
+
+
+
+Key Win Phrases:
+
+
+
+Objections Raised:
+
+
+
+Switching Trigger:
+One Sentence They Used to Describe StorX:
+Assets This Interview Should Produce:
+
+
+
+
+Store all interview notes in a shared Notion page or Google Doc 
+accessible to the whole marketing team.
+
+---
+
+## Related Skills
+- `skills/storx-marketing-context/SKILL.md` — read first
+- `skills/copywriting/SKILL.md` — use customer language in copy
+- `skills/content-strategy/SKILL.md` — use research to find 
+  content topics
+- `skills/competitor-alternatives/SKILL.md` — use competitor 
+  complaints to build comparison pages
+- `skills/social-content/SKILL.md` — use customer language 
+  in social posts
