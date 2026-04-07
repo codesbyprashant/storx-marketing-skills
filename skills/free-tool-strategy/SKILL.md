@@ -111,4 +111,59 @@ Show a preview of results, then require email to see the full output.
 Best for: Cost calculators, quiz results, detailed reports.
 
 **Option B — CTA After Results**
-Show full
+Show full results for free, then present a strong CTA.
+Example: "Your estimated AWS egress cost is $4,200/year. StorX 
+would cost $0 in egress fees. Start your free trial →"
+Best for: Simple calculators where results are the hook.
+
+**Option C — Powered By Footer**
+Tool is completely free with no gate — just a "Built by StorX" 
+footer with a link.
+Best for: Community goodwill tools shared in Web3 and DevOps 
+communities.
+
+**Option D — Tool Requires StorX Account**
+The tool itself is only accessible after signup.
+Best for: Tools that are genuinely part of the StorX product 
+experience.
+
+---
+
+## Step 4 — Distribution Plan for Each Tool
+
+Once built, distribute every free tool through:
+
+- [ ] Dedicated landing page on storx.network/tools/[tool-name]
+- [ ] Blog post explaining how to use the tool and why it matters
+- [ ] Twitter/X thread showing the tool in action with a real example
+- [ ] LinkedIn post targeting CTOs and DevOps Leads
+- [ ] Reddit posts in r/selfhosted, r/devops, r/CloudStorage, r/web3
+- [ ] Hacker News "Show HN" post
+- [ ] Product Hunt launch for highest-impact tools
+- [ ] Email newsletter feature
+- [ ] Add to StorX email signature and onboarding sequence
+
+---
+
+## Step 5 — Measurement
+
+Track these metrics for every free tool:
+
+| Metric | Target |
+|---|---|
+| Monthly unique visitors to tool page | Growing month over month |
+| Email captures (if gated) | Conversion rate above 30% |
+| Tool to trial conversion rate | At least 5% of tool users start a trial |
+| Backlinks generated | Tools should attract natural links over time |
+| Keyword ranking | Track primary target keyword monthly |
+
+---
+
+## Related Skills
+- `skills/storx-marketing-context/SKILL.md` — read first
+- `skills/content-strategy/SKILL.md` — tools are a content format
+- `skills/seo-audit/SKILL.md` — tools are an SEO asset
+- `skills/analytics-tracking/SKILL.md` — track tool performance
+- `skills/social-content/SKILL.md` — distribute tools on social
+- `skills/programmatic-seo/SKILL.md` — tools generate backlinks 
+  that support programmatic SEO
