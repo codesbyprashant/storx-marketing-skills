@@ -130,4 +130,24 @@ Every competitor page must include:
   `/[competitor]-alternative`
 - **Internal links:** Link to pricing page, docs, and signup CTA
 - **Word count:** Minimum 800 words per page for SEO viability
-- **Schem
+- **Schema markup:** Use the Comparison schema type
+
+---
+
+## Step 5 — Sales Enablement Use
+
+These pages are not just for SEO — send them during the sales process:
+
+- When a prospect mentions a competitor → send the relevant page
+- In cold email follow-ups → link to the most relevant comparison
+- In onboarding emails → reference migration simplicity
+
+---
+
+## Related Skills
+- `skills/storx-marketing-context/SKILL.md` — read first
+- `skills/seo-audit/SKILL.md` — for on-page SEO optimization
+- `skills/copywriting/SKILL.md` — for writing page copy
+- `skills/sales-enablement/SKILL.md` — for using these pages 
+  in the sales process
+- `skills/programmatic-seo/SKILL.md` — for scaling these pages
