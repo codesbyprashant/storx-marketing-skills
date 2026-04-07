@@ -227,4 +227,7 @@ Before publishing any marketing asset, check:
 ## Related Skills
 - `skills/storx-marketing-context/SKILL.md` — read first
 - `skills/copywriting/SKILL.md` — apply these principles in copy
-- `skil
+- `skills/competitor-alternatives/SKILL.md` — use contrast effect
+- `skills/ab-test-setup/SKILL.md` — test which principles work best
+- `skills/content-strategy/SKILL.md` — use psychology to plan 
+  content topics
