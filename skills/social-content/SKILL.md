@@ -282,3 +282,5 @@ Posting is only half the job. Engagement compounds reach.
   social content drives signups
 - `skills/marketing-psychology/SKILL.md` — apply 
   psychological principles to social formats
+- `skills/atomizer/SKILL.md` — use Atomizer to generate 
+  platform-ready social posts from any source content
