@@ -170,3 +170,5 @@ Every piece of content must be distributed across all relevant channels:
 - `skills/programmatic-seo/SKILL.md` — for scaling content at volume
 - `skills/competitor-alternatives/SKILL.md` — for comparison content
 - `skills/analytics-tracking/SKILL.md` — for measuring content ROI
+- `skills/atomizer/SKILL.md` — atomize every published 
+  blog post into a full week of social content
